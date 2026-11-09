@@ -24,3 +24,5 @@
         </service>
     </application>
 </manifest>
+    <uses-permission android:name="android.permission.SEND_SMS" />
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
